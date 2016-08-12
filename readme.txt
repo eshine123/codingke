@@ -1,2 +1,2 @@
-init git
-codingke_xiaoguang
+git init...
+codingke xiaoguang
